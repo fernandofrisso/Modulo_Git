@@ -1,0 +1,59 @@
+[33mcommit fae04df15f05f9f08352d81dceee38ffa5a17a69[m[33m ([m[1;36mHEAD -> [m[1;32mteste[m[33m, [m[1;31morigin/teste[m[33m, [m[1;32mteste2[m[33m, [m[1;32mcheckout[m[33m)[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Fri Oct 21 10:32:49 2022 -0300
+
+    adicionando .gitignore no projeto
+
+[33mcommit 8abc201705edacf61f71cde35bea0a3047b4222e[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Fri Oct 21 10:00:56 2022 -0300
+
+    mudanças no css
+
+[33mcommit 4869d79f75e7d09d13be493457430dd12642e878[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Thu Oct 20 17:10:32 2022 -0300
+
+    novas informações no README
+
+[33mcommit 83489260cbfc732312e240862bbb91ec008a8804[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Wed Oct 19 11:00:15 2022 -0300
+
+    Atualizando README.md e estilizando css
+
+[33mcommit a16f8c74c282368a77218b5cc0a2caca7e4a4951[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Wed Oct 19 10:31:53 2022 -0300
+
+    estilização no css
+
+[33mcommit aa102d656d24e4c3744c8d93e59d3a2f74ffa133[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Wed Oct 19 10:12:57 2022 -0300
+
+    Novas alterações no README.md e inclusão de um arquivo css
+
+[33mcommit 6acebef291236b2fd9e00fc6bd70476e630b2991[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mchekout[m[33m)[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Wed Oct 19 09:59:09 2022 -0300
+
+    adicionando o index no meu projeto
+
+[33mcommit 2337c59ff763767a24e1b052d4cba6fcd426125b[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Wed Oct 19 09:48:17 2022 -0300
+
+    Coloquei novas alterações no README.md
+
+[33mcommit 062279be41f97ae441ef9eb841b8a0a0d75cba95[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Tue Oct 18 17:56:36 2022 -0300
+
+    retornando uma nova alteração no README.md
+
+[33mcommit e6fd4037a3bfb5f9b195d2d8a0d830ae644bc809[m
+Author: fernando frisso <fernandofrisso@outlook.com>
+Date:   Tue Oct 18 16:59:43 2022 -0300
+
+    primeiro commit
